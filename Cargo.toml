@@ -1,0 +1,13 @@
+[package]
+name = "sc-rust"
+version = "0.0.1"
+publish = true
+
+rust-version = "1.85"
+edition = "2024"
+authors = ["IFFranciscoME"]
+readme = "README.md"
+
+[dependencies]
+toml = { version = "0.8" }
+plotly = "0.13"
